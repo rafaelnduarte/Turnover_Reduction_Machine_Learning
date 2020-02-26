@@ -7,7 +7,7 @@ As the volume of data created daily increases, it's vital for companies to know 
 There are many ways companies can benefit from Data Science. [Recommendation Systems]('https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a'), for example, can be very useful. but even in e-commerce, it's important to understand and take care of your employees.
 
 <p align="center" >
-  <img src="Reducao_Turnover_RH_Machine_Learning/data/job-applicants-interviewers-collection_1284-26227.jpg" >
+  <img src="https://github.com/rafaelnduarte/Reducao_Turnover_RH_Machine_Learning/data/job-applicants-interviewers-collection_1284-26227.jpg" >
 </p>
 
 > With that in mind, the goal of this project is to analyze the data available and look for ways to **Reduce Employee Turnover**, increasing retention of good professionals.
