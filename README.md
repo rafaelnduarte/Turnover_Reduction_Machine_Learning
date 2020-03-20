@@ -15,4 +15,4 @@ There are many ways companies can benefit from Data Science. [Recommendation Sys
 Using data collected from [Kaggle]('https://kaggle.com/'), we'll build a Machine Learning model that's capable of predicting attrition among employees, which can help companies take prevention actions to minimize attrition effects, increase employee quality of life, and retain the best professionals of the company.
 
 
-<center><img width = '80%'src= "https://github.com/rafaelnduarte/Analysis_of_Violence_in_Rio_de_Janeiro/raw/master/img/rafaelnd_ds.png"></center>
+<center><img width = '70%'src= "rafaelnd_banner.png"></center>
